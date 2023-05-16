@@ -1,5 +1,5 @@
 <div align="center">
-    <h2 align="center"><strong>Olá, meu nome é Chauan.</strong></h2><p>Seja bem-vindo(a) ao meu GitHub!</p>
+    <h1 align="center"><strong>Olá, meu nome é Chauan.</strong></h1><p>Seja bem-vindo(a) ao meu GitHub!</p>
 </div>
 <br>
 <div style="display: inline_block" align="center">
