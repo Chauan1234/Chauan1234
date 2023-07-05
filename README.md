@@ -10,5 +10,5 @@
 <br>
 <div align="center">
     <a href="https://github.com/Chauan1234">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chauan1234&layout=compact&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chauan1234&layout=compact&theme=aura"/>
 </div>
